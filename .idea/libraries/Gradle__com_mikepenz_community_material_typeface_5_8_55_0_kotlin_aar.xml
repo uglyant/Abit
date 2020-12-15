@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:community-material-typeface:5.8.55.0-kotlin@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e9f9daa3d6f7e074de613ca592a9812/jetified-community-material-typeface-5.8.55.0-kotlin/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e9f9daa3d6f7e074de613ca592a9812/jetified-community-material-typeface-5.8.55.0-kotlin/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e9f9daa3d6f7e074de613ca592a9812/jetified-community-material-typeface-5.8.55.0-kotlin/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/community-material-typeface/5.8.55.0-kotlin/1ed8e61fd80cb3e3f1ca9d37192e4f3b7595c242/community-material-typeface-5.8.55.0-kotlin-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/community-material-typeface/5.8.55.0-kotlin/c3a27543e58a0845394a619eb258384aa42bbdbb/community-material-typeface-5.8.55.0-kotlin-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

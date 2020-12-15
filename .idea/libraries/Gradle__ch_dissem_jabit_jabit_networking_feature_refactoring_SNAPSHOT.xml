@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.dissem.jabit:jabit-networking:feature-refactoring-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.jabit/jabit-networking/feature-refactoring-SNAPSHOT/b1cf13b5890636a0a9ff05a75268068ed9c80ae0/jabit-networking-feature-refactoring-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.jabit/jabit-networking/feature-refactoring-SNAPSHOT/d52279423e0a1e0ad3f0af4e8075fbaa67a453cd/jabit-networking-feature-refactoring-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.jabit/jabit-networking/feature-refactoring-SNAPSHOT/b736a21054cbb22f906c30335a2863d030694241/jabit-networking-feature-refactoring-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.dissem.msgpack:msgpack:2.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.msgpack/msgpack/2.0.1/64df3bda6a56bbf47bba6f20a05a66ad00fd6eab/msgpack-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.msgpack/msgpack/2.0.1/d545bb3842a1a73bc8b08d1ce240d861a956d76c/msgpack-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.msgpack/msgpack/2.0.1/f17da80f443d22390cffd3edba264819f9a22710/msgpack-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

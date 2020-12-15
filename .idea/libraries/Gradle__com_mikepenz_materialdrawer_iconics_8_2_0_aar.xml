@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:materialdrawer-iconics:8.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2db305b6ddb0ab6dd95ef2f9163bcb84/jetified-materialdrawer-iconics-8.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2db305b6ddb0ab6dd95ef2f9163bcb84/jetified-materialdrawer-iconics-8.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2db305b6ddb0ab6dd95ef2f9163bcb84/jetified-materialdrawer-iconics-8.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialdrawer-iconics/8.2.0/856fc23663719af141d8c2dc4350bc80dc3e9d35/materialdrawer-iconics-8.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialdrawer-iconics/8.2.0/c7b3100308d4c1af8930418287ad3ba55d27cf30/materialdrawer-iconics-8.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

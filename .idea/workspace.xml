@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2fe1ef4-a7ae-41a2-bb21-5761690dad9b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ld0FELvWurUZvGdtT4tsmOCzYf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-view/Users/r/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/Toolbar.java_SELECTED" value="Toolbar" />
+    <property name="android-custom-view/Users/r/.gradle/caches/modules-2/files-2.1/com.github.kobakei/MaterialFabSpeedDial/1.1.8/5a474d22a2bf5e3e3393de852ac9933c95812311/MaterialFabSpeedDial-1.1.8-sources.jar!/io/github/kobakei/materialfabspeeddial/FabSpeedDial.java_SELECTED" value="FabSpeedDial" />
+    <property name="android-custom-view/Users/r/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialdrawer/8.2.0/4b018930753144a3e290d7fc4ca605018495ff92/materialdrawer-8.2.0-sources.jar!/com/mikepenz/materialdrawer/widget/AccountHeaderView.kt_SELECTED" value="AccountHeaderView" />
+    <property name="android-custom-view/Users/r/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialdrawer/8.2.0/4b018930753144a3e290d7fc4ca605018495ff92/materialdrawer-8.2.0-sources.jar!/com/mikepenz/materialdrawer/widget/MaterialDrawerSliderView.kt_SELECTED" value="MaterialDrawerSliderView" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/ch/dissem/apps/abit" />
+    <property name="multi-representation-preview/Users/r/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/Toolbar.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/r/.gradle/caches/modules-2/files-2.1/com.github.kobakei/MaterialFabSpeedDial/1.1.8/5a474d22a2bf5e3e3393de852ac9933c95812311/MaterialFabSpeedDial-1.1.8-sources.jar!/io/github/kobakei/materialfabspeeddial/FabSpeedDial.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/r/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialdrawer/8.2.0/4b018930753144a3e290d7fc4ca605018495ff92/materialdrawer-8.2.0-sources.jar!/com/mikepenz/materialdrawer/widget/AccountHeaderView.kt_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/r/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialdrawer/8.2.0/4b018930753144a3e290d7fc4ca605018495ff92/materialdrawer-8.2.0-sources.jar!/com/mikepenz/materialdrawer/widget/MaterialDrawerSliderView.kt_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/ch/dissem/apps/abit" />
+      <recent name="$PROJECT_DIR$/app/src/main/res" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/ch/dissem/apps/abit" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Abit.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2fe1ef4-a7ae-41a2-bb21-5761690dad9b" name="Default Changelist" comment="" />
+      <created>1607911554592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607911554592</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608010703673">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="439" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.822@0.23.1440.822" timestamp="1608010703673" />
+    <state x="497" y="129" width="644" height="579" key="#xdebugger.evaluate" timestamp="1608001285978">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="497" y="129" key="#xdebugger.evaluate/0.23.1440.820@0.23.1440.820" timestamp="1608001285978" />
+    <state x="497" y="129" width="644" height="579" key="#xdebugger.evaluate/0.23.1440.821@0.23.1440.821" timestamp="1607923840304" />
+    <state x="461" y="177" key="AndroidProcessChooserDialog" timestamp="1608011407810">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="461" y="177" key="AndroidProcessChooserDialog/0.23.1440.822@0.23.1440.822" timestamp="1608011407810" />
+    <state width="421" height="466" key="DebuggerActiveHint" timestamp="1607921927222">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="421" height="466" key="DebuggerActiveHint/0.23.1440.821@0.23.1440.821" timestamp="1607921927222" />
+    <state width="1165" height="15" key="GridCell.Tab.0.bottom" timestamp="1608010608101">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1165" height="15" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1608009590810" />
+    <state width="1165" height="15" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1608009588600" />
+    <state width="1165" height="15" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1608010608101" />
+    <state width="1165" height="15" key="GridCell.Tab.0.center" timestamp="1608010608101">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1165" height="15" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1608009590809" />
+    <state width="1165" height="15" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1608009588599" />
+    <state width="1165" height="15" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1608010608101" />
+    <state width="1165" height="15" key="GridCell.Tab.0.left" timestamp="1608010608101">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1165" height="15" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1608009590809" />
+    <state width="1165" height="15" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1608009588598" />
+    <state width="1165" height="15" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1608010608101" />
+    <state width="1165" height="15" key="GridCell.Tab.0.right" timestamp="1608010608101">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1165" height="15" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1608009590810" />
+    <state width="1165" height="15" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1608009588599" />
+    <state width="1165" height="15" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1608010608101" />
+    <state x="230" y="65" key="SettingsEditor" timestamp="1607995418735">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="230" y="65" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1607995418735" />
+    <state x="438" y="144" width="615" height="490" key="find.popup" timestamp="1608012401936">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="438" y="144" width="615" height="490" key="find.popup/0.23.1440.821@0.23.1440.821" timestamp="1608012401936" />
+    <state x="438" y="144" width="615" height="491" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1608010816422" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialdrawer/8.2.0/4b018930753144a3e290d7fc4ca605018495ff92/materialdrawer-8.2.0-sources.jar!/com/mikepenz/materialdrawer/widget/MaterialDrawerSliderView.kt</url>
+          <line>576</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialdrawer/8.2.0/4b018930753144a3e290d7fc4ca605018495ff92/materialdrawer-8.2.0-sources.jar!/com/mikepenz/materialdrawer/widget/MaterialDrawerSliderView.kt</url>
+          <line>578</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

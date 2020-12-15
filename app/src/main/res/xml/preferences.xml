@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.SwitchPreferenceCompat
+        android:defaultValue="true"
+        android:key="wifi_only"
+        android:summary="@string/wifi_only_summary"
+        android:title="@string/wifi_only" />
+    <androidx.preference.SwitchPreferenceCompat
+        android:defaultValue="true"
+        android:key="request_acknowledgements"
+        android:summary="@string/request_acknowledgements_summary"
+        android:title="@string/request_acknowledgements" />
+    <androidx.preference.EditTextPreference
+        android:inputType="textUri"
+        android:key="trusted_node"
+        android:summary="@string/trusted_node_summary"
+        android:title="@string/trusted_node" />
+    <androidx.preference.EditTextPreference
+        android:defaultValue="120"
+        android:inputType="number"
+        android:key="sync_timeout"
+        android:summary="@string/sync_timeout_summary"
+        android:title="@string/sync_timeout" />
+    <androidx.preference.SwitchPreferenceCompat
+        android:defaultValue="false"
+        android:dependency="trusted_node"
+        android:key="server_pow"
+        android:summary="@string/server_pow_summary"
+        android:title="@string/server_pow" />
+    <androidx.preference.Preference
+        android:key="about"
+        android:summary="@string/about_summary"
+        android:title="@string/about" />
+    <androidx.preference.Preference
+        android:key="help_out"
+        android:summary="@string/help_out_summary"
+        android:title="@string/help_out">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="@string/help_out_link" />
+    </androidx.preference.Preference>
+    <androidx.preference.Preference
+        android:key="cleanup"
+        android:summary="@string/cleanup_summary"
+        android:title="@string/cleanup" />
+    <androidx.preference.Preference
+        android:key="export"
+        android:summary="@string/export_data_summary"
+        android:title="@string/export_data" />
+    <androidx.preference.Preference
+        android:key="import"
+        android:summary="@string/import_data_summary"
+        android:title="@string/import_data" />
+    <androidx.preference.Preference
+        android:key="status"
+        android:summary="@string/status_summary"
+        android:title="@string/status" />
+</androidx.preference.PreferenceScreen>

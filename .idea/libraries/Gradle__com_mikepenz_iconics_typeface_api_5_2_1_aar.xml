@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:iconics-typeface-api:5.2.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b73a98d5e7f50826fb6d0a3cc6b0c53/jetified-iconics-typeface-api-5.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b73a98d5e7f50826fb6d0a3cc6b0c53/jetified-iconics-typeface-api-5.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b73a98d5e7f50826fb6d0a3cc6b0c53/jetified-iconics-typeface-api-5.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/iconics-typeface-api/5.2.1/1fdbec749f85cd0354cb87d950af390b8b1055fc/iconics-typeface-api-5.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/iconics-typeface-api/5.2.1/41131168b14816c24165d255d8025a98d1d806c4/iconics-typeface-api-5.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

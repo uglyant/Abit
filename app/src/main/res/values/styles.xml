@@ -1,0 +1,91 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- ////parent="MaterialDrawerTheme.Light.DarkToolbar.TranslucentStatus"-->
+    <!-- Base application theme. -->
+    <!--Theme.Design.Light-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+       <!-- colorPrimaryText-->
+        <item name="android:activatedBackgroundIndicator">@drawable/bg_item_activated</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryText</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>
+    </style>
+
+    <style name="Theme.TestMaterialDrawerSlide" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!--black-->
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <!--ShowcaseView-->
+    <style name="CustomShowcaseTheme" parent="Theme.Design.Light">
+        <item name="sv_backgroundColor">#eeffc107</item>
+        <item name="sv_showcaseColor">#ffc107</item>
+        <item name="sv_buttonText">Hide</item>
+        <item name="sv_tintButtonColor">false</item>
+        <item name="sv_titleTextAppearance">@style/CustomTitle</item>
+    </style>
+
+    <style name="CustomTitle" parent="TextAppearance.ShowcaseView.Title">
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="FixedDialog" parent="Theme.AppCompat.Light.Dialog.MinWidth">
+        <item name="windowNoTitle">false</item>
+    </style>
+
+    <style name="Widget.MaterialDrawerStyle" parent="Theme.AppCompat.Light.Dialog.MinWidth">
+        <item name="materialDrawerInsetForeground">#4000</item>
+        <!-- MaterialDrawer specific values -->
+        <item name="materialDrawerBackground">?colorSurface</item>
+        <item name="materialDrawerPrimaryText">?android:textColorPrimary</item>
+        <item name="materialDrawerPrimaryIcon">?android:textColorSecondary</item>
+        <item name="materialDrawerSecondaryText">?android:textColorSecondary</item>
+        <item name="materialDrawerSecondaryIcon">?android:textColorSecondary</item>
+        <item name="materialDrawerDividerColor">?android:textColorHint</item>
+        <item name="materialDrawerSelectedBackgroundColor">?colorPrimary</item>
+    </style>
+
+    <style name="Widget.MaterialDrawerHeaderStyle" parent="">
+        <item name="materialDrawerCompactStyle">false</item>
+        <item name="materialDrawerHeaderSelectionText">?android:textColorPrimary</item>
+        <item name="materialDrawerHeaderSelectionSubtext">?android:textColorSecondary</item>
+    </style>
+
+    <!-- DrawerArrowStyles -->
+    <style name="MaterialDrawer.DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">false</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="MaterialDrawer.Light.DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">false</item>
+        <item name="color">@android:color/black</item>
+    </style>
+
+
+    <!-- BezelImageView -->
+    <style name="BezelImageView">
+        <item name="materialDrawerMaskDrawable">@drawable/material_drawer_circle_mask</item>
+        <item name="materialDrawerDrawCircularShadow">true</item>
+        <item name="materialDrawerSelectorOnPress">?colorPrimary</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+</resources>

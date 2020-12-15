@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.dissem.jabit:jabit-core:feature-refactoring-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.jabit/jabit-core/feature-refactoring-SNAPSHOT/b1c494e48df7703f2311892cd02641c9a7a1cccd/jabit-core-feature-refactoring-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.jabit/jabit-core/feature-refactoring-SNAPSHOT/8c5e97396b58cfa4ae35d2b02caf2d5841278b4c/jabit-core-feature-refactoring-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.jabit/jabit-core/feature-refactoring-SNAPSHOT/dc296ea67cceb64a95cb202e8d0f6acd86931233/jabit-core-feature-refactoring-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

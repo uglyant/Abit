@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.dissem.jabit:jabit-cryptography-spongy:feature-refactoring-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.jabit/jabit-cryptography-spongy/feature-refactoring-SNAPSHOT/1d845a676dcf3f79ffc86325dca32f573d81056a/jabit-cryptography-spongy-feature-refactoring-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.jabit/jabit-cryptography-spongy/feature-refactoring-SNAPSHOT/f7dde40e2ca3540de740fc4c6472227d1699ff33/jabit-cryptography-spongy-feature-refactoring-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.dissem.jabit/jabit-cryptography-spongy/feature-refactoring-SNAPSHOT/bfadb4efa4031c4b84465178ab4d0943f35ab848/jabit-cryptography-spongy-feature-refactoring-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

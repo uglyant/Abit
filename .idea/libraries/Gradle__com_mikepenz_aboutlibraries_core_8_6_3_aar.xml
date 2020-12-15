@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:aboutlibraries-core:8.6.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1843bb047e0a0d9e66666e0c7a06eb3d/jetified-aboutlibraries-core-8.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1843bb047e0a0d9e66666e0c7a06eb3d/jetified-aboutlibraries-core-8.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1843bb047e0a0d9e66666e0c7a06eb3d/jetified-aboutlibraries-core-8.6.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries-core/8.6.3/7f3e38e812ce457fd72cf48703ff2b6e11538fff/aboutlibraries-core-8.6.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries-core/8.6.3/4c276f1cb1e6f5db8311ce8d3a441070be49e89e/aboutlibraries-core-8.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
