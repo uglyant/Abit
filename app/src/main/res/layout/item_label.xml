@@ -7,14 +7,21 @@
     android:gravity="center_vertical"
     android:orientation="horizontal">
 
-    <com.mikepenz.iconics.view.IconicsImageView
-        android:id="@+id/icon"
+<!--    <com.mikepenz.iconics.view.IconicsImageView
+        android:id="@+id/image_icon"
         android:layout_width="16dp"
         android:layout_height="16dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         app:ico_color="@android:color/black"
-        app:ico_icon="cmd-label" />
+        app:ico_icon="cmd-label" />-->
+    <ImageView
+        android:id="@+id/image_icon"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:contentDescription="@string/image_desc" />
 
     <TextView
         android:id="@+id/label"
@@ -24,5 +31,5 @@
         android:paddingEnd="24dp"
         tools:text="Label"
         android:layout_alignParentTop="true"
-        android:layout_toEndOf="@+id/icon" />
+        android:layout_toEndOf="@+id/image_icon" />
 </RelativeLayout>

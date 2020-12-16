@@ -34,7 +34,6 @@
             android:layout_alignParentEnd="true"
             android:layout_alignParentTop="true"
             android:padding="16dp"
-            android:tint="@color/colorAccent"
             tools:ignore="ContentDescription"
             tools:src="@drawable/ic_notification_proof_of_work" />
 

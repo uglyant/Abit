@@ -139,4 +139,6 @@ As an alternative you could configure a trusted node in the settings, but as of 
     <string name="material_drawer_open" translatable="false">Open</string>
     <string name="material_drawer_close" translatable="false">Close</string>
     <string name="material_drawer_profile_content_description" translatable="false">Profile icon</string>
+
+    <string name="image_desc" translatable="false">""</string>
 </resources>

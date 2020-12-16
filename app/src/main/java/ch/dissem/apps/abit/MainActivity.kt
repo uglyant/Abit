@@ -181,7 +181,7 @@ class MainActivity : AppCompatActivity(), ListSelectionListener<Serializable> {
                     }
                 }
             } }}
-        createSliderDrawer(toolbar)
+        createSliderDrawer(toolbar,savedInstanceState)
 
         // handle intents
         val intent = intent
@@ -337,7 +337,7 @@ class MainActivity : AppCompatActivity(), ListSelectionListener<Serializable> {
         loadDrawerItemsAsynchronously()
     }*/
 
-    private fun createSliderDrawer(toolbar: Toolbar) {
+    private fun createSliderDrawer(toolbar: Toolbar, savedInstanceState: Bundle?) {
 
 
         val profile = ProfileDrawerItem().apply { nameText = getString(R.string.add_identity); descriptionText = getString(R.string.add_identity_summary);
@@ -413,7 +413,7 @@ class MainActivity : AppCompatActivity(), ListSelectionListener<Serializable> {
                 // false if it should close the drawer
                 false
             }
-           /// withSavedInstance(savedInstanceState)
+            withSavedInstance(savedInstanceState)
         }
 
 
@@ -464,7 +464,7 @@ class MainActivity : AppCompatActivity(), ListSelectionListener<Serializable> {
                     }
                     false
                 }
-            ///setSavedInstance(savedInstanceState)
+            setSavedInstance(savedInstanceState)
         }
         loadDrawerItemsAsynchronously()
     }

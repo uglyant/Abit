@@ -39,6 +39,7 @@ import ch.dissem.apps.abit.util.Strings.prepareMessageExtract
 import ch.dissem.bitmessage.entity.Plaintext
 import ch.dissem.bitmessage.entity.valueobject.Label
 import com.mikepenz.iconics.IconicsColor
+import com.mikepenz.iconics.IconicsDrawable
 import com.mikepenz.iconics.typeface.library.googlematerial.GoogleMaterial
 import com.mikepenz.iconics.utils.color
 import com.mikepenz.iconics.utils.icon
@@ -88,8 +89,8 @@ class MessageDetailFragment : Fragment() {
         // Show the dummy content as text in a TextView.
         item?.let { item ->
             view.findViewById<TextView>(R.id.subject).text = item.subject
-            view.findViewById<ImageView>(R.id.subject).setImageResource(Assets.getStatusDrawable(item.status))
-            view.findViewById<TextView>(R.id.status).contentDescription = getString(Assets.getStatusString(item.status))
+            view.findViewById<ImageView>(R.id.status).setImageResource(Assets.getStatusDrawable(item.status))
+            view.findViewById<ImageView>(R.id.status).contentDescription = getString(Assets.getStatusString(item.status))
             view.findViewById<ImageView>(R.id.avatar).setImageDrawable(Identicon(item.from))
             val senderClickListener: (View) -> Unit = {
                 MainActivity.apply {
@@ -282,16 +283,17 @@ class MessageDetailFragment : Fragment() {
         override fun onBindViewHolder(viewHolder: LabelAdapter.ViewHolder, position: Int) {
             // Get the data model based on position
             val label = labels[position]
+              viewHolder.image_icon.setBackgroundColor(Labels.getColor(label))
 
-            viewHolder.icon.icon?.color = IconicsColor.colorInt(Labels.getColor(label))
-            viewHolder.icon.icon?.icon(Labels.getIcon(label))
+          ///  viewHolder.image_icon.icon?.color = IconicsColor.colorInt(Labels.getColor(label))
+          ///  viewHolder.image_icon.icon?.icon(Labels.getIcon(label))
             viewHolder.label.text = Labels.getText(label, ctx)
         }
 
         override fun getItemCount() = labels.size
 
         internal class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
-            var icon = itemView.findViewById<IconicsImageView>(R.id.icon)!!
+            var image_icon = itemView.findViewById<ImageView>(R.id.image_icon)!!
             var label = itemView.findViewById<TextView>(R.id.label)!!
         }
     }

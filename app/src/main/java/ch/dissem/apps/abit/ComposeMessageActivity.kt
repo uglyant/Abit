@@ -24,7 +24,6 @@ import androidx.fragment.app.Fragment
 import androidx.appcompat.app.AppCompatActivity
 import ch.dissem.apps.abit.service.Singleton
 import ch.dissem.bitmessage.entity.Plaintext
-import ch.dissem.bitmessage.entity.Plaintext.Encoding.EXTENDED
 ///import kotlinx.android.synthetic.main.toolbar_layout.*
 
 /**
@@ -90,8 +89,8 @@ class ComposeMessageActivity : AppCompatActivity() {
             }
             // if the original message was sent using extended encoding, use it as well
             // so features like threading can be supported
-            if (item.encoding == EXTENDED) {
-                replyIntent.putExtra(EXTRA_ENCODING, EXTENDED)
+            if (item.encoding == Plaintext.Encoding.EXTENDED) {
+                replyIntent.putExtra(EXTRA_ENCODING, Plaintext.Encoding.EXTENDED)
             }
             replyIntent.putExtra(EXTRA_PARENT, item)
             item.subject?.let { subject ->
